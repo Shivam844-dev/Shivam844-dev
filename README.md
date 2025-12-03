@@ -1,16 +1,38 @@
-## Hi there 👋
+# Shivam Kumar 👋
 
-<!--
-**Shivam844-dev/Shivam844-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Python & Node.js**
 
-Here are some ideas to get you started:
+I am a backend developer from Bihar, India with strong expertise in Python. I design and build reliable, maintainable backend systems and APIs, and I enjoy solving problems with clean, testable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech stack
+
+- Python
+- Node.js
+
+---
+
+## Experience
+
+- Backend developer — Proficient in Python backend development and API design. Focused on writing clean, well-tested, and scalable server-side code.
+
+---
+
+## Get in touch
+
+- Location: Bihar, India  
+- GitHub: https://github.com/Shivam844-dev
+
+(If you want an email or LinkedIn link shown here, tell me and I'll add it.)
+
+---
+
+## About me
+
+- Passionate about building scalable backend systems and writing maintainable code.  
+- Currently focused on backend development with Python and Node.js.
+
+---
+
+If you'd like changes (tone, more/less detail, add certifications or education, include a downloadable resume), tell me and I will update the README before any push.
